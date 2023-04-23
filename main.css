@@ -1,0 +1,9 @@
+body {
+	display: flex;
+	font-size: 3rem;
+	background-color: sienna;
+	color: cyan;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
